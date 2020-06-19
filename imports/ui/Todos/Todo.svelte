@@ -35,13 +35,14 @@
   }
 </style>
 
-<!-- Dude this needs some labels and stuff-->
 <div>
   <p class="title">{todo.title}:</p>
   <p>{todo.text}</p>
   <button on:click={deleteTodo}>Delete</button>
   <form on:submit|preventDefault={handleSubmit}>
-    <input type="text" bind:value={updateTitle} />
+    <label for="updateTitle">Update the Title Here</label>
+    <input type="text" id="updateTitle" bind:value={updateTitle} />
+    <label for="updateText">Update The Todo Text Here</label>
     <input type="text" bind:value={updateText} />
     <button>Submit</button>
   </form>
