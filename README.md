@@ -18,7 +18,7 @@ You will also need a copy of [Node JS & NPM](https://www.nodejs.org) version 10.
 
 ## Getting started
 
-Either clone this repository or download the contents from GitHub.
+Either clone this repository or download the contents from GitHub and place them in a folder.
 
 Then check to make sure Meteor is installed on your system.
 
