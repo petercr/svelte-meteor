@@ -22,7 +22,6 @@
     updateTitle = "";
     updateText = "";
   };
-  // Need to add 2 input fields, 1 for title & text of the Todo
 </script>
 
 <style>
