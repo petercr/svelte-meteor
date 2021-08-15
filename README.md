@@ -1,6 +1,8 @@
 # Welcome to my cool Svelte & Meteor Todo App
 
-**Please note the default `branch` is `main`**
+**Please note the default `branch` is `main` ❤️**
+
+## Sorry this app is not styled yet, but coming soon!
 
 This is is based off of a set of video tutorials by Scott Tolinski of LevelUpTuts on YouTube.
 You can find a link to the first video [here on YouTube.](https://www.youtube.com/watch?v=Qc4dglMX7fw)
