@@ -11,7 +11,7 @@
     "@babel/runtime": "^7.15.3",
     "bcrypt": "^5.0.1",
     "jquery": "^3.6.0",
-    "meteor-node-stubs": "^1.1.0",
+    "meteor-node-stubs": "^1.2.26",
     "svelte": "^4.2.19"
   },
   "meteor": {
